@@ -191,7 +191,7 @@ table {
 @font-face {
   font-family: Montserrat;
   font-display: swap;
-  src: url("/Montserrat-LightItalic.woff2") format("woff2"), url("Montserrat-LightItalic.woff") format("woff");
+  src: url("Montserrat-LightItalic.woff2") format("woff2"), url("Montserrat-LightItalic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
